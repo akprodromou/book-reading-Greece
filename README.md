@@ -27,5 +27,4 @@ The chart is divided into **sex** and **reading frequency**, giving a clear comp
 
 Make sure you have the following Python libraries installed:
 
-```bash
 pip install matplotlib seaborn pandas numpy
