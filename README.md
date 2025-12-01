@@ -1,7 +1,7 @@
 # Book Reading in Greece
 
 Eurostat's book reading habits survey for Greece, visualized into a diverging stacked bar chart. 
-The chart is divided into **sex** and **reading frequency**, giving a clear comparative view of how different age groups engage with reading.
+The chart is divided into **sex** and **reading frequency**, giving a comparative view of how different age groups engage with reading.
 
 ![Chart](book_reading_chart.png)
 
@@ -15,7 +15,6 @@ The chart is divided into **sex** and **reading frequency**, giving a clear comp
   - 5 to 9
   - 10+
 - Male and female responses are visualized on opposite sides for easy comparison.
-- Custom color palettes highlight gender-specific trends.
 
 ## Files
 
